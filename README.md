@@ -1,2 +1,2 @@
 # PythonStudy
-Learned python
+Learned python by Udemy in spanish code
